@@ -1,0 +1,40 @@
+/* universal selector */
+*{
+    font-family: 'tahoma';
+}
+/*selector id */
+#artikel{
+    color: brown;
+}
+#artikel-2{
+    color: yellowgreen;
+}
+/* selector class */
+.tanggal{
+    color: red;
+}
+/* selector tag */
+h3{
+   font-size: 12px;
+}
+
+.credit{
+    font-weight: bold;
+}
+/* selector class */
+.penulis{
+    font-weight: bold;
+    color: red;
+}
+/* selector tag */
+h3+p{
+    color: brown;
+}
+
+span{
+    color: blueviolet;
+}
+
+#artikel-2{
+    color: yellowgreen;
+}
